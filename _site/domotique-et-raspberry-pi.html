@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<!-- Meta -->
+	<meta charset="UTF-8"/>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+	<meta name="generator" content="Jekyll">
+
+	<title>Domotique et Raspberry Pi</title>
+  <meta name="description" content="DIY, home made et bricolage en tout genre">
+
+	<!-- CSS & fonts -->
+	<link rel="stylesheet" href="/css/main.css">
+
+	<!-- RSS -->
+	<link href="/atom.xml" type="application/atom+xml" rel="alternate" title="ATOM Feed" />
+
+  <!-- Favicon -->
+  <link rel="shortcut icon" type="image/png" href="img/favicon.png">
+
+</head>
+
+
+<body>
+	<div id="wrap">
+	  	
+	  	<!-- Navigation -->
+	  	<nav id="nav">
+	<div id="nav-list">
+		<a href="//">Home</a>
+
+		<!-- Nav pages -->
+	  
+	    
+	  
+	    
+	      <a href="/a-propos" title="À propos">À propos</a>
+	    
+	  
+	    
+	  
+	    
+	  
+	    
+	  
+	    
+	  
+	    
+	  
+	    
+	  
+	    
+	  
+    
+    <!-- Nav links -->
+	  <a href="https://github.com/thereviewindex/monochrome/archive/master.zip">Download</a>
+<a href="https://github.com/thereviewindex/monochrome">Project on Github</a>
+
+
+	</div>
+  
+  <!-- Nav footer -->
+	
+	  <footer>
+	
+	<!-- Your custom nav footer here -->
+	
+</footer>
+	
+
+</nav>
+
+    
+    <!-- Icon menu -->
+	  <a id="nav-menu">
+	  	<div id="menu"></div>
+	  </a>
+
+      <!-- Header -->
+      
+        <header id="header">
+
+	<!-- Your custom header here -->
+	
+</header>
+      
+
+    <!-- Main content -->
+	  <div id="container">
+		  
+		<main>
+
+			<article id="post-page">
+	<h2>Domotique et Raspberry Pi</h2>		
+	<time datetime="2014-02-28T12:36:32+01:00" class="by-line">28 Feb 2014</time>
+	<div class="content">
+
+		<p><img src="http://korben.info/wp-content/uploads/2013/01/raspberrypi.jpg" alt="Plus de 50 idées pour votre Raspberry Pi" /></p>
+
+<p>Ça fait un moment que je souhaite installer un peu de domotique dans ma maison que j’occupe depuis déjà un an (ça passe vite !). J’ai découvert que ce serait possible avec l’ordinateur qui fait la taille d’une carte de crédit, le Raspberry Pi, qui est sorti en 2012 et a de plus en plus d’usages pour les enthousiastes du DIY. On s’en est servi pour les liaisons radio, la construction de drones, de consoles de jeux rétro…</p>
+
+<p>Pour moi, l’idée serait de mettre en place un ordinateur central, basé sur une carte Raspberry Pi, qui servirait à la fois de NAS, de terminal de contrôle de température intérieur, de station météo extérieure, de gestion du chauffage, de contrôle de luminaire, etc…</p>
+
+<p>Je sais qu’il existe également des projets Open Source de mise en place d’alarme avec un Raspberry Pi, ça pourrait permettre de faire de sacrées économies sur ce poste.</p>
+
+<p>Le principe serait de compléter <a href="http://radiospares-fr.rs-online.com/web/generalDisplay.html?id=raspberrypi">l’achat de la carte par un raspberry pi boitier </a>puis de stocker le tout dans un placard et ne m’en servir qu’en tant que serveur (ethernet ou wifi).</p>
+
+<p>Pour plus d’infos sur le Raspberry Pi, vous pouvez visiter le site officiel de la carte : <a href="http://www.raspberrypi.org/">http://www.raspberrypi.org/</a> (toutes les infos sont en anglais).</p>
+
+<p>Pour avoir un aperçu de l’historique de la conception de la carte, voici une infographie sympa que j’ai trouvée sur le <a href="http://korben.info/laventure-raspberry-pi.html">blog de korben</a>.</p>
+
+<p><a href="http://korben.info/laventure-raspberry-pi.html"><img src="http://korben.info/wp-content/uploads/2014/02/InfographieHistoireRPIV2-kubii.jpg" alt="InfographieHistoireRPIV2 kubii Laventure Raspberry Pi" /></a></p>
+
+<p>Il me semble que Intel est entrain de développer un équivalent en plus puissant, mais je ne crois pas qu’il soit déjà en vente pour le grand public (edit : plus d’info sur la carte d’Intel, qui est beaucoup chère, <a href="http://arstechnica.com/information-technology/2013/09/199-4-2-computer-is-intels-first-raspberry-pi-competitor/">ici</a>).</p>
+
+<p>Concernant les entrées et sorties électroniques, vous vous doutez que je ne souhaite pas utiliser de connexions filaires : le coût et le temps d’installation seraient vraiment trop contraignants, et je ne me vois pas faire courir des fils partout dans le salon (j’en connais une qui ne serait pas d’accord…). Je pense donc utiliser des ondes radio en 433 mhz, avec un émetteur / récepteur + antenne côté serveur, et de plus petits du côté des sondes et interrupteurs.</p>
+
+<p>Pour le software, vu que la carte est en fait un pc complet (processeur ARM1176JZF-S, décodeur Broadcam VideoCore IV, 512Mo de RAM, ports USB, etc..), on peut tout à fait programmer toutes les interactions en Python, ce que je ferais surement car je connais bien le langage.</p>
+
+<p>Il existe un large choix de système d’exploitation incluant Raspbian, basé sur Debian, Pidora, basé sur Fedora, ainsi que plusieurs distrib à base de xbmc pour utiliser le Raspberry Pi en mode media center.</p>
+
+<p>Pour ma part je partirais bien sur <a href="http://www.raspbian.org/">Raspbian</a> qui me paraît bien maintenu et stable. La doc est plutôt bien fournie et le nombre de packages déjà prêts à l’emploi assez conséquent.</p>
+
+<p>Il ne reste plus qu’à attaquer le projet, ce qui va être un peu dur, vu les nouveautés à la maison, on verra dans les prochains 6 mois comment mini me se porte 😉</p>
+
+		
+	</div>
+</article>
+
+
+
+	  </main>
+		
+		  <!-- Pagination links -->
+      
+
+	  </div>
+	    
+	    <!-- Footer -->
+	    <footer><span>@2017 - Monochrome</span></footer>
+
+
+	    <!-- Script -->
+      <script src="/js/main.js"></script>	
+
+
+	</div>
+</body>
+</html>

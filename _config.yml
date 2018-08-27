@@ -1,0 +1,39 @@
+# Site settings
+title: DIY, home made et bricolage en tout genre
+description: "DIY, home made et bricolage en tout genre"
+url: "http://www.choco-bn.net"
+author:
+  name: "Nicolas Baccelli"
+  email: "nicolas.baccelli@gmail.com"
+  url: "https://www.choco-bn.net"
+
+# Build settings
+baseurl: / # Change this to your relative path (ex: /blog/), or leave just a /
+markdown: kramdown
+source: .
+destination: ./_site
+permalink: /:title
+paginate: 8
+paginate_path: /page:num/
+
+# Default values
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+
+# Plugins
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+
+# Custom variables
+version: "1.0.0"
+
+# Options
+custom_header: true
+custom_nav_footer: true
+reverse: false

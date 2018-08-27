@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+ <title>DIY, home made et bricolage en tout genre</title>
+ <link href="http://localhost:4000/atom.xml" rel="self"/>
+ <id>http://localhost:4000</id>
+ <updated>2018-08-27T15:01:18+02:00</updated>
+ <author>
+   <name>Nicolas Baccelli</name>
+   <uri>https://www.choco-bn.net</uri>
+   <email>nicolas.baccelli@gmail.com</email>
+ </author>
+
+ 
+
+ <entry>
+   <title>Domotique et Raspberry Pi</title>
+   <link href="http://localhost:4000/domotique-et-raspberry-pi"/>
+   <id>http://localhost:4000/domotique-et-raspberry-pi</id>
+   <updated>2014-02-28T12:36:32+01:00</updated>
+   <content type="html">&lt;p&gt;&lt;img src=&quot;http://korben.info/wp-content/uploads/2013/01/raspberrypi.jpg&quot; alt=&quot;Plus de 50 idées pour votre Raspberry Pi&quot; /&gt;&lt;/p&gt; &lt;p&gt;Ça fait un moment que je souhaite installer un peu de domotique dans ma maison que j’occupe depuis déjà un an (ça passe vite !). J’ai découvert que ce serait possible avec l’ordinateur qui fait la taille d’une carte...</content>
+ </entry>
+
+ 
+
+ <entry>
+   <title>Nouveau VTT &#8211; Montage perso à base d&rsquo;un cadre MBK R-Force XC1 Carbone</title>
+   <link href="http://localhost:4000/nouveau-vtt-montage-perso-a-base-dun-cadre-mbk-r-force-xc1-carbone"/>
+   <id>http://localhost:4000/nouveau-vtt-montage-perso-a-base-dun-cadre-mbk-r-force-xc1-carbone</id>
+   <updated>2013-04-07T15:21:00+02:00</updated>
+   <content type="html">&lt;p&gt;Mon nouveau vélo, acheté en pièces détachées d’occasion ou neuves pour certaine.&lt;/p&gt; &lt;p&gt;J’ai pas mal galéré sur certaine partie du montage, notamment sur la fourche et le réglage de la transmission, mais je suis finalement très content du résultat !&lt;/p&gt; &lt;p&gt;Il fait environ 11.6Kg, pour à peu près 1600€ sans...</content>
+ </entry>
+
+ 
+
+ <entry>
+   <title>Meuble en escalier : Fini !</title>
+   <link href="http://localhost:4000/meuble-en-escalier-finit"/>
+   <id>http://localhost:4000/meuble-en-escalier-finit</id>
+   <updated>2011-05-08T15:09:18+02:00</updated>
+   <content type="html">&lt;p&gt;Voici la photo du meuble fini :&lt;/p&gt; &lt;p&gt;&lt;a href=&quot;http://www.choco-bn.net/wp-content/uploads/2011/05/DSC_5309.jpg&quot;&gt;&lt;img class=&quot;alignnone size-large wp-image-90&quot; title=&quot;meuble en escalier finit&quot; src=&quot;http://www.choco-bn.net/wp-content/uploads/2011/05/DSC_5309-678x1024.jpg&quot; alt=&quot;meuble en medium peint&quot; width=&quot;550&quot; height=&quot;830&quot; srcset=&quot;http://www.choco-bn.net/wp-content/uploads/2011/05/DSC_5309-678x1024.jpg 678w, http://www.choco-bn.net/wp-content/uploads/2011/05/DSC_5309-198x300.jpg 198w, http://www.choco-bn.net/wp-content/uploads/2011/05/DSC_5309.jpg 900w&quot; sizes=&quot;(max-width: 550px) 100vw, 550px&quot; /&gt;&lt;/a&gt;&lt;/p&gt; &lt;p&gt; &lt;/p&gt; &lt;p&gt;Au final il nous a fallut une semaine pour faire la sous-couche blanche + le...</content>
+ </entry>
+
+ 
+
+ <entry>
+   <title>Meuble en escalier : De la theorie a la pratique</title>
+   <link href="http://localhost:4000/meuble-en-escalier-de-la-theorie-a-la-pratique"/>
+   <id>http://localhost:4000/meuble-en-escalier-de-la-theorie-a-la-pratique</id>
+   <updated>2011-05-02T12:01:55+02:00</updated>
+   <content type="html">&lt;p&gt;Plusieurs mois après avoir acheté le bois, nous nous mettons enfin à l’oeuvre !&lt;/p&gt; &lt;p&gt;En un week-end, nous avons eu le temps de faire la découpe, de mettre les tourillons (3/tranche), de coller, de poser du mastic pour gommer les défauts et enfin de poncer légèrement.&lt;/p&gt; &lt;p&gt;Voici ce que ca donne dans...</content>
+ </entry>
+
+ 
+
+ <entry>
+   <title>Meuble en escalier : deuxieme etape : les plans</title>
+   <link href="http://localhost:4000/meuble-en-escalier-deuxieme-etape-les-plans"/>
+   <id>http://localhost:4000/meuble-en-escalier-deuxieme-etape-les-plans</id>
+   <updated>2010-11-27T10:00:36+01:00</updated>
+   <content type="html">&lt;p&gt;Le projet avance (lentement) et j’ai enfin finit les plans sous Google Sketchup&lt;/p&gt; &lt;p&gt;Voila ce que ça donne :&lt;/p&gt; &lt;div id=&quot;attachment_73&quot; style=&quot;width: 560px&quot; class=&quot;wp-caption alignnone&quot;&gt; &lt;a href=&quot;http://www.choco-bn.net/wp-content/uploads/2010/11/etageres_escalier2.png&quot;&gt;&lt;img class=&quot;size-large wp-image-73&quot; title=&quot;etageres en bois escalier diy&quot; src=&quot;http://www.choco-bn.net/wp-content/uploads/2010/11/etageres_escalier2-1024x474.png&quot; alt=&quot;etageres en bois escalier diy&quot; width=&quot;550&quot; height=&quot;254&quot; srcset=&quot;http://www.choco-bn.net/wp-content/uploads/2010/11/etageres_escalier2-1024x474.png 1024w, http://www.choco-bn.net/wp-content/uploads/2010/11/etageres_escalier2-300x138.png 300w, http://www.choco-bn.net/wp-content/uploads/2010/11/etageres_escalier2.png 1300w&quot; sizes=&quot;(max-width: 550px)...</content>
+ </entry>
+
+ 
+
+ <entry>
+   <title>Meuble en escalier en bois : premiere etape : la conception</title>
+   <link href="http://localhost:4000/meuble-en-escalier-en-bois-premiere-etape-la-conception"/>
+   <id>http://localhost:4000/meuble-en-escalier-en-bois-premiere-etape-la-conception</id>
+   <updated>2010-10-21T15:30:43+02:00</updated>
+   <content type="html">&lt;div id=&quot;attachment_67&quot; style=&quot;width: 310px&quot; class=&quot;wp-caption alignnone&quot;&gt; &lt;a href=&quot;http://www.choco-bn.net/wp-content/uploads/2010/10/etageres_escalier.png&quot;&gt;&lt;img class=&quot;size-medium wp-image-67&quot; title=&quot;meuble étagère en escalier en bois diy&quot; src=&quot;http://www.choco-bn.net/wp-content/uploads/2010/10/etageres_escalier-300x138.png&quot; alt=&quot;meuble étagère en escalier en bois diy&quot; width=&quot;300&quot; height=&quot;138&quot; srcset=&quot;http://www.choco-bn.net/wp-content/uploads/2010/10/etageres_escalier-300x138.png 300w, http://www.choco-bn.net/wp-content/uploads/2010/10/etageres_escalier-1024x474.png 1024w, http://www.choco-bn.net/wp-content/uploads/2010/10/etageres_escalier.png 1300w&quot; sizes=&quot;(max-width: 300px) 100vw, 300px&quot; /&gt;&lt;/a&gt; &lt;p class=&quot;wp-caption-text&quot;&gt; meuble étagère en escalier en bois diy &lt;/p&gt; &lt;/div&gt; &lt;p&gt;Après...</content>
+ </entry>
+
+ 
+
+ <entry>
+   <title>Conversion DIY d&rsquo;un VTT en velo de ville &#8211; Premiere etape</title>
+   <link href="http://localhost:4000/conversion-diy-dun-vtt-en-velo-de-ville-premiere-etape"/>
+   <id>http://localhost:4000/conversion-diy-dun-vtt-en-velo-de-ville-premiere-etape</id>
+   <updated>2009-08-30T18:49:35+02:00</updated>
+   <content type="html">&lt;p&gt;Voici un billet qui va faire un peu dévier ce blog vers le DIY en général, et non plus orienté vers l’audio&lt;/p&gt; &lt;p&gt;J’attaque donc une nouvelle section, le DIY sportif, avec la première étape de la modification de mon vtt en vélo de ville&lt;/p&gt; &lt;p&gt;Il s’agit d’un vélo tout terrain...</content>
+ </entry>
+
+ 
+
+ <entry>
+   <title>Prochaine projet DIY : Table a matrice de LED</title>
+   <link href="http://localhost:4000/prochaine-projet-diy-table-a-matrice-de-led"/>
+   <id>http://localhost:4000/prochaine-projet-diy-table-a-matrice-de-led</id>
+   <updated>2009-08-22T01:24:28+02:00</updated>
+   <content type="html">&lt;p&gt;Ca faisait quelques temps que je n’avais pas entreprit un nouveau projet DIY.&lt;/p&gt; &lt;p&gt;Après les enceintes satellites qui fonctionnent à merveille, je pensais me lancer dans la construction d’une enceinte centrale.&lt;/p&gt; &lt;p&gt;Mais finalement, je ne pense pas avoir la place pour cela dans mon petit appart’ pour l’instant, je reporte...</content>
+ </entry>
+
+ 
+
+ <entry>
+   <title>Cables audio HI-FI DIY de qualite</title>
+   <link href="http://localhost:4000/cables-audio-hi-fi-diy-de-qualite"/>
+   <id>http://localhost:4000/cables-audio-hi-fi-diy-de-qualite</id>
+   <updated>2009-05-23T10:56:49+02:00</updated>
+   <content type="html">&lt;p&gt;Voici un article très interessant sur la construction de &lt;a title=&quot;cable diy&quot; href=&quot;http://diyaudioprojects.com/Power/Low-Inductance-DIY-Speaker-Cables/&quot; target=&quot;_blank&quot;&gt;cables audio pas cher&lt;/a&gt; d’une excellente qualité&lt;/p&gt; &lt;p&gt;J’ajouterais qu’on peut également utiliser du cable RJ45 qui est de très bonne qualité et trouvable assez facilement (j’en ai plein mes placards !)&lt;/p&gt; &lt;p&gt;Par ailleurs je vous conseil le...</content>
+ </entry>
+
+ 
+
+ <entry>
+   <title>Enceintes Satellites DIY &#8211; Monacor SPH-30X &#8211; Compte rendu</title>
+   <link href="http://localhost:4000/enceintes-satellites-diy-monacor-sph-30x-compte-rendu"/>
+   <id>http://localhost:4000/enceintes-satellites-diy-monacor-sph-30x-compte-rendu</id>
+   <updated>2009-04-18T21:35:52+02:00</updated>
+   <content type="html">&lt;p&gt;Voila, dernière partie des post sur mes nouvelles enceintes sattelites DIY&lt;/p&gt; &lt;p&gt;Tout d’abord  le rendu visuel : On dirait mes colonnes en modèle réduit, du coup, superbe intégration.&lt;/p&gt; &lt;p&gt;De plus les haut-*parleurs Monacor SPH-30X rendent vraiment bien, du coup j’ai décidé de ne pas mettre de cache et de profiter...</content>
+ </entry>
+
+ 
+
+</feed>
